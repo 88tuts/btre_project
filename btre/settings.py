@@ -20,10 +20,10 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # See https://docs.djangoproject.com/en/2.2/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = ')&olz3hq-mqo(szt*1)u*dq0kxjy_-$mu&a=k$&+xq(^=2%cdn'
+SECRET_KEY = ')&dfg3hq-mqo(sgffrthu*dq0kxjy_-$mgfdhfk$&+xq(^=2%cdn'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = []
 
@@ -83,8 +83,8 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'btredb',
-        'USER': 'postgres',
-        'PASSWORD': 'password',
+        'USER': 'love2love',
+        'PASSWORD': 'padfgeuirwordfgd',
         'HOST': 'localhost'
     }
 }
@@ -145,6 +145,6 @@ MESSAGE_TAGS = {
 # Email Config
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
-EMAIL_HOST_USER = '88tuts@gmail.com'
-EMAIL_HOST_PASSWORD = '!H~+dweb4329yucan!!0'
+EMAIL_HOST_USER = '88tdsjdf@gmail.com'
+EMAIL_HOST_PASSWORD = 'dfdfholjkeop'
 EMAIL_USE_TLS = True
